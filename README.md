@@ -1,2 +1,2 @@
 # romanToInteger-vanillaJS
-Created with CodeSandbox
+- Program to convert roman numeral to Integer in vanilla JavaScript.
